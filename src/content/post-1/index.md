@@ -1,45 +1,26 @@
 ---
-title: "This is such a long headline and i dont know what to write so i keep continiung"
-date: "2019-03-17"
+title: "Los Limites de la Inteligencia Artificial"
+date: "2023-08-20"
 draft: false
 path: "/blog/example-title"
 ---
-# H1
+# Los Limites de la Inteligencia Artificial
 
-## H2
 
-### H3
 
-#### H4
-
-##### H5
-
-###### H6
-
-Paragraph
-
----
-
-> This is a quote
+#### Introduccion.
+Los numeros Transfinitos: G.Cantor.
+El segundo Teorema de incompletitud: K.Godel.
+El problema de la parada: Turing.
+Los problemas Matematicos del Milenio.
+P=NP?
+NP Dificil.
+Los Limites de la Computacion Cuantica.
 
 ---
 
-[Example.com](example.com)
 
----
 
-`const foo = bar`
-
-```javascript
-const foo = bar
-console.log(foo);
-```
-
----
-
-| Hello | World |
-|-------|------ |
-| Foo   | Bar   |
 
 
 
