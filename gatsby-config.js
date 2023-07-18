@@ -3,7 +3,7 @@ module.exports = {
     title: `Roberto Ortega `,
     subtitle: `Ciencia de la Computacion Teorica.`,
     description: `Mi Blog personal.`,
-    author: `AmaruCODE`,
+    author: `@niklasmtj`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
