@@ -1,5 +1,5 @@
 ---
-title: "Second Title"
+title: "Los Limites de la Inteligencia Artificial"
 date: "2019-03-18"
 draft: false
 path: "/blog/second-title"
