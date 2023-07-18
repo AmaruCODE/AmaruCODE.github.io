@@ -4,7 +4,6 @@ date: "2023-08-20"
 draft: false
 path: "/blog/Los-Limites-de-la-Inteligencia-Artificial"
 ---
----
 
 # h1 Los Limites de la Inteligencia Artificial
 #### h4 Introduccion.
