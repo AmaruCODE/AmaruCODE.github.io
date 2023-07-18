@@ -4,10 +4,9 @@ date: "2023-08-20"
 draft: false
 path: "/blog/example-title"
 ---
+---
+
 # Los Limites de la Inteligencia Artificial
-
-
-
 #### Introduccion.
 Los numeros Transfinitos: G.Cantor.
 El segundo Teorema de incompletitud: K.Godel.
