@@ -2,7 +2,7 @@
 title: "Los Limites de la Inteligencia Artificial"
 date: "2023-08-20"
 draft: false
-path: "/blog/example-title"
+path: "/blog/Los Limites de la Inteligencia Artificial"
 ---
 ---
 
