@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Roberto Ortega Cuadros`,
+    title: `Roberto Ortega `,
     subtitle: `CS, Aero, Math, Cats`,
     description: `Mi Blog personal.`,
     author: `AmaruCODE`,
