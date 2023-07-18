@@ -1,6 +1,6 @@
 ---
 title: "Los Limites de la Inteligencia Artificial"
-date: "2019-03-18"
+date: "2023-08-20"
 draft: false
 path: "/blog/second-title"
 ---
