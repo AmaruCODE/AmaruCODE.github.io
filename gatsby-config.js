@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Roberto Ortega `,
-    subtitle: `CS, Aero, Math, Cats`,
+    subtitle: `Ciencia de la Computacion, Robotica-Aeroespacial, Kabbalah, Matematicas, Animales-Ambiente-Personas, ,
     description: `Mi Blog personal.`,
     author: `AmaruCODE`,
   },
