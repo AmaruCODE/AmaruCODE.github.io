@@ -4,7 +4,6 @@ draft: false
 path: "/blog/Los-Limites-de-la-Inteligencia-Artificial"
 ---
 
-# Los Limites de la Inteligencia Artificial
 
 ## Introducción
 
