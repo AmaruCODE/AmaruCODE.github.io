@@ -4,44 +4,55 @@ draft: false
 path: "/blog/Los-Limites-de-la-Inteligencia-Artificial"
 ---
 
+# Los Limites de la Inteligencia Artificial
 
-*Índice
-*[Introduccion.](#id1)
-*[Los numeros Transfinitos: G.Cantor.](#id2)
-*[El segundo Teorema de incompletitud: K.Godel.](#id3)
+## Introducción
 
+[Introduzca el tema de su entrada de blog y proporcione algo de contexto o información de fondo].
 
-<div id='id1' />
-  
-### Introduccion.
-  
-Texto del primer apartado.
-  
-<div id='id2' />
-  
-### Los numeros Transfinitos: G.Cantor.
+## George Cantor: Los números Transfinitos
 
-Texto del segundo apartado.
+[Comienza con un título que resuma el contenido de esta sección].
 
-<div id='id3' />
-  
-### El segundo Teorema de incompletitud: K.Godel.
+[Añada su contenido aquí, proporcionando información detallada, ejemplos o explicaciones].
 
-Texto del Tercer apartado.
+## Kurl Godel: El segundo Teorema de incompletitud.
+[Repita el proceso para la segunda sección. Puede tener tantas secciones como necesite].
 
+## Alan Turing: El problema de la parada 
+[Repita el proceso para la segunda sección. Puede tener tantas secciones como necesite].
 
+## Los problemas Matematicos del Milenio.
+[Repita el proceso para la segunda sección. Puede tener tantas secciones como necesite].
 
+## ¿P=NP?
+[Repita el proceso para la segunda sección. Puede tener tantas secciones como necesite].
 
+## NP Dificil.
+[Repita el proceso para la segunda sección. Puede tener tantas secciones como necesite].
 
-El problema de la parada: Turing.
+## Los Limites de la Computacion Cuantica.
+[Repita el proceso para la segunda sección. Puede tener tantas secciones como necesite].
 
-Los problemas Matematicos del Milenio.
+## Conclusión
 
-P=NP?
+[Resuma los puntos principales tratados en la entrada del blog].
 
-NP Dificil.
+## Recursos adicionales
 
-Los Limites de la Computacion Cuantica.
+[Proporcione enlaces o referencias a recursos adicionales que los lectores puedan explorar para obtener más información].
+
+## Sobre el autor
+
+[Escriba una breve biografía o descripción de sí mismo, incluyendo cualquier cualificación o experiencia relevante].
+
+## Información de contacto
+
+[Incluya su información de contacto, como una dirección de correo electrónico o datos de contacto en redes sociales, para que los lectores puedan ponerse en contacto con usted].
+
+## Agradecimientos
+
+[Opcional: Agradezca a cualquier persona o fuente que haya contribuido al contenido de la entrada de su blog].
 
 ---
 
