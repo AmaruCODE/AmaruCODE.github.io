@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Roberto Ortega `,
-    subtitle: `Ciencia de la Computacion Teorica.`,
+    subtitle: `Ciencia de la Computación Teórica.`,
     description: `Mi Blog personal.`,
     author: `@niklasmtj`,
   },
