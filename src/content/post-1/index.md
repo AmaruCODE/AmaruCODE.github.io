@@ -5,10 +5,10 @@ path: "/blog/Los-Limites-de-la-Inteligencia-Artificial"
 ---
 
 
-**Índice**
-1. [Introduccion.](#id1)
-2. [Los numeros Transfinitos: G.Cantor.](#id2)
-3. [El segundo Teorema de incompletitud: K.Godel.](#id3)
+*Índice
+*[Introduccion.](#id1)
+*[Los numeros Transfinitos: G.Cantor.](#id2)
+*[El segundo Teorema de incompletitud: K.Godel.](#id3)
 
 
 <div id='id1' />
