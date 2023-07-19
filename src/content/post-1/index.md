@@ -6,7 +6,7 @@ path: "/blog/example-title"
 ---
 
 #Los Limites de la Inteligencia Artificial
-#### h4 Introduccion.
+####Introduccion.
 Los numeros Transfinitos: G.Cantor.
 El segundo Teorema de incompletitud: K.Godel.
 El problema de la parada: Turing.
