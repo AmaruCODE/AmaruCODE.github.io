@@ -2,15 +2,30 @@
 title: "Los Limites de la Inteligencia Artificial"
 
 draft: false
-path: "/blog/example-title"
+path: "/blog/Los-Limites-de-la-Inteligencia-Artificial"
 ---
 
+**Índice**
+1. [Introduccion.](#id1)
+2. [Los numeros Transfinitos: G.Cantor.](#id2)
+3. [El segundo Teorema de incompletitud: K.Godel.](#id3)
 
-Introduccion.
 
-Los numeros Transfinitos: G.Cantor.
+<div id='id1' />
+## Introduccion.
+Texto del primer apartado.
+  
+<div id='id2' />
+##Los numeros Transfinitos: G.Cantor. 
+Texto del segundo apartado.
 
-El segundo Teorema de incompletitud: K.Godel.
+<div id='id3' />
+## El segundo Teorema de incompletitud: K.Godel.
+Texto del Tercer apartado.
+
+
+
+
 
 El problema de la parada: Turing.
 
