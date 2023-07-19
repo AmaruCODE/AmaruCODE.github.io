@@ -11,13 +11,13 @@ path: "/blog/Los-Limites-de-la-Inteligencia-Artificial"
 ## Introducción.
 
 
-## George Cantor: Los números Transfinitos
+## George Cantor: Los números Transfinitos.
 
 
 ## Kurl Godel: El segundo Teorema de incompletitud.
 
 
-## Alan Turing: El problema de la parada 
+## Alan Turing: El problema de la parada. 
 
 
 ## Los problemas Matematicos del Milenio.
@@ -32,15 +32,15 @@ path: "/blog/Los-Limites-de-la-Inteligencia-Artificial"
 ## Los Limites de la Computacion Cuantica.
 
 
-## Conclusión
+## Conclusión.
 
 
-## Recursos adicionales
+## Recursos adicionales.
 
-## Sobre el autor
+## Sobre el autor.
 
 
-## Información de contacto
+## Información de contacto.
 
 
 ---
