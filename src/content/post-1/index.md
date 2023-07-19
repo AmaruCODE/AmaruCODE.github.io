@@ -4,11 +4,11 @@ draft: false
 path: "/blog/Los-Limites-de-la-Inteligencia-Artificial"
 ---
 
+-------------------------------
+-------------------------------
 
 
-
-## Introducción
-
+## Introducción.
 
 
 ## George Cantor: Los números Transfinitos
