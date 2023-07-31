@@ -38,7 +38,24 @@ Fundamentos de la inteligencia artificial: El Segundo Teorema de Incompletitud d
 
 Los resultados de Gödel nos recuerdan la importancia de la humildad intelectual y nos instan a seguir explorando nuevos enfoques y paradigmas en la ciencia y la tecnología para abordar los desafíos computacionales y cognitivos más complejos.
 
-## Alan Turing: El problema de la parada. 
+## Alan Turing: El problema de la parada.
+El Problema de la Parada, también conocido como Problema de la Detención o Halting Problem en inglés, es un concepto fundamental en la teoría de la computación y fue desarrollado por el matemático y pionero de la ciencia de la computación, Alan Turing, en 1936. Este problema ha tenido un impacto significativo en la teoría de la computación teórica y la inteligencia artificial, y su estudio ha llevado a importantes conclusiones sobre los límites y capacidades de las máquinas de cómputo.
+
+El problema de la parada se plantea de la siguiente manera: Dada una descripción de un programa de computadora y una entrada específica para ese programa, ¿es posible determinar si ese programa eventualmente se detendrá (terminará su ejecución) o si continuará ejecutándose infinitamente?
+
+Alan Turing demostró que no hay un algoritmo general que pueda resolver el problema de la parada para todos los posibles programas y entradas. Es decir, no hay un procedimiento mecánico que pueda tomar cualquier código de programa y datos de entrada, y decirnos si el programa se detendrá o entrará en un bucle infinito. Esta conclusión se basa en su concepto de "máquina de Turing", una abstracción teórica que representa cualquier dispositivo de cómputo posible.
+
+Esta demostración es sumamente importante porque establece un límite teórico en la computación y nos dice que hay problemas irresolubles, sin importar cuán poderosa sea la computadora que tengamos. En otras palabras, existen problemas para los cuales no podemos encontrar una solución mediante un algoritmo, y el problema de la parada es uno de ellos.
+
+La influencia del problema de la parada en la ciencia de la computación teórica y la inteligencia artificial es significativa:
+
+Teoría de la computación: El problema de la parada ayudó a establecer los fundamentos de la teoría de la computabilidad. Turing demostró que la existencia de problemas irresolubles es inherente a cualquier modelo de cómputo lo suficientemente poderoso, como la máquina de Turing. Esto condujo al desarrollo de la teoría de la complejidad computacional, que estudia la dificultad y los recursos necesarios para resolver diversos problemas.
+
+Límites de la computación: La demostración del problema de la parada resalta los límites intrínsecos de la computación. En esencia, muestra que no hay una máquina de cómputo universal que pueda resolver todos los problemas, lo que lleva a cuestionar la idea de "máquina algorítmica perfecta". Este conocimiento es crucial para entender qué tipos de problemas son solucionables y cuáles no.
+
+Teoría de la complejidad: El problema de la parada también ha contribuido al estudio de la clasificación de problemas en clases de complejidad. Problemas como "NP-completos" son aquellos para los cuales no se ha encontrado un algoritmo eficiente, pero si alguien encontrara una solución eficiente para uno de ellos, se resolverían todos los problemas en la clase "NP" en tiempo polinómico. Estos problemas están relacionados con la dificultad inherente del problema de la parada.
+
+Inteligencia Artificial: En el campo de la inteligencia artificial, el problema de la parada tiene implicaciones en el desarrollo de sistemas autónomos y algoritmos de aprendizaje automático. La incapacidad de determinar si un programa se detendrá o no para todas las entradas limita la capacidad de controlar completamente el comportamiento de algunas inteligencias artificiales avanzadas. También se relaciona con la indecibilidad de ciertos problemas en IA, como el "problema de la decisión" en lógica y el "problema de la detección de errores" en aprendizaje automático.
 
 
 ## Los problemas Matematicos del Milenio.
